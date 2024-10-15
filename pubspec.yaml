@@ -1,0 +1,25 @@
+name: quill_super_clipboard
+description: "A package for integrating the package super_clipboard with flutter_quill to provide access to the system clipboard."
+version: 0.0.1
+homepage: https://github.com/FlutterQuill/quill-super-clipboard
+repository: https://github.com/FlutterQuill/quill-super-clipboard
+issue_tracker: https://github.com/FlutterQuill/quill-super-clipboard/issues
+documentation: https://github.com/FlutterQuill/quill-super-clipboard
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  super_clipboard: ^0.8.24
+  # TODO: Publish the package and use latest version of flutter_quill once https://github.com/singerdmx/flutter-quill/pull/2230 is published
+  flutter_quill:
+  meta: ^1.10.0
+
+dev_dependencies:
+  test: ^1.25.8
+  flutter_lints: ^5.0.0
+
+flutter:
