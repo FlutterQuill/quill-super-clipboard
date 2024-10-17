@@ -15,7 +15,7 @@ dependencies:
     sdk: flutter
   super_clipboard: ^0.8.24
   # TODO: Publish the package and use latest version of flutter_quill once https://github.com/singerdmx/flutter-quill/pull/2230 is published
-  flutter_quill:
+  flutter_quill: ^10.8.3
   meta: ^1.10.0
 
 dev_dependencies:
