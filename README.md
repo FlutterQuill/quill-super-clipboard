@@ -9,6 +9,8 @@ to provide seamless access to the system clipboard for rich text operations.
 
 ## Usage
 
+To start using `super_clipboard`, follow the [super_clipboard setup instructions](https://pub.dev/packages/super_clipboard#getting-started).
+
 To use the `super_clipboard` implementation with this package:
 
 ```dart
