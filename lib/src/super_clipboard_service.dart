@@ -2,7 +2,7 @@ import 'dart:async' show Completer;
 import 'dart:convert' show utf8;
 
 import 'package:flutter/foundation.dart';
-import 'package:flutter_quill/flutter_quill_internal.dart';
+import 'package:flutter_quill/internal.dart';
 import 'package:meta/meta.dart' show experimental;
 
 import 'package:super_clipboard/super_clipboard.dart';
